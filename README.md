@@ -4,7 +4,7 @@
 
 This repository contains a comprehensive mind map of digital artefact traceability. The mind map covers various aspects of managing, identifying, and transferring digital objects in research.
 
-![Mind Map](TraZaBiLiDaD.png)
+![Mind Map](https://github.com/rtleyb/DTP-scheme/blob/main/MindNodes/TraZaBiLiDaD.png)
 
 ## Detailed Sections
 
