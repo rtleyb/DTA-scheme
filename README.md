@@ -1,10 +1,10 @@
-# Digital Traceability Plan (DTP)
+# Digital Traceability Scheme (DTS)
 
 ## Overview
 
 This repository contains a comprehensive mind map of digital artefact traceability. The mind map covers various aspects of managing, identifying, and transferring digital objects in research.
 
-![Mind Map](https://github.com/rtleyb/DTP-scheme/blob/main/MindNodes/TraZaBiLiDaD.png)
+![Mind Map](https://github.com/rtleyb/DTS-scheme/blob/main/MindNodes/TraZaBiLiDaD.png)
 
 ## Detailed Sections
 
