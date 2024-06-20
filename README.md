@@ -1,4 +1,4 @@
-# Digital Traceability Scheme (DTS)
+# Digital Traceability Artifact (DTA-scheme)
 
 ## Overview
 
