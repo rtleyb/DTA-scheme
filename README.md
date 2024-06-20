@@ -602,3 +602,16 @@ This repository contains a comprehensive mind map of digital artefact traceabili
     </tr>
   </tbody>
 </table>
+
+## License
+
+This project is licensed under the MIT License.
+
+## Acknowledgments
+
+To be...
+
+## Citation
+
+To be...
+
